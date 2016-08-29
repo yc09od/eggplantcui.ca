@@ -1,0 +1,27 @@
+
+#page_title_board{
+    padding: 20pt 0 0 0;
+    margin-top:20pt;
+    //background-image: url("../../src/picture/page_title_background.jpg");
+    background-size: cover;
+    border-radius: 6px 6px 0 0;
+    color: whitesmoke;
+}
+
+.col-md-8.col-md-offset-2.text-center{
+    margin-bottom: 10pt;
+}
+
+.information_board{
+    margin-top: 40px;
+    margin-bottom: 60px;
+    box-shadow: 1px 1px 5px #E58C00;
+    border: solid 1px #E58C00;
+    padding: 60px 0;
+    //background-image:-webkit-linear-gradient(0deg, #FFF5F5, white);
+    //background-image:linear-gradient(0deg, #FFF5F5, white);
+    background-image:  url("../src/picture/jianbian.jpg");
+    background-size:100% 100%;
+}
+
+
